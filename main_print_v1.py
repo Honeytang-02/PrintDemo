@@ -1,5 +1,5 @@
 # 1. 변수 선언
-name = "Alice"
+name = "엄재원"
 age = 25
 score = 95.5
 
